@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://makk24.github.com/404.html</loc>
+    
+    <lastmod>2017-02-07T09:40:52.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://makk24.github.com/categories/index.html</loc>
+    
+    <lastmod>2017-02-07T09:34:24.378Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://makk24.github.com/tags/index.html</loc>
+    
+    <lastmod>2017-02-07T09:03:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://makk24.github.com/2017/02/07/hello-world/</loc>
     
     <lastmod>2017-02-07T03:09:41.759Z</lastmod>
