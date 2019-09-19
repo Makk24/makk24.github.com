@@ -9,8 +9,8 @@
  var imgArr = new Array();
  var ox = 350
  var oy = 50
- var w = 100
- var h = 100;
+ var w = 1000
+ var h = 1000;
  var th = 1;
  var bottom;
  var posData = new Array();
